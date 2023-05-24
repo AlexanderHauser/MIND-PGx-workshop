@@ -1,0 +1,10 @@
+rsID,Consequence,SequenceNumber,ProteinConsequence,SIFT,PolyPhen,CADD_PHRED
+rs712829,5_prime_UTR_variant,-,-,-,-,15.51
+rs11568315,intron_variant,-,-,-,-,8.334
+rs2227983,missense_variant,521,R521K,tolerated_low_confidence(0.08),benign(0.003),9.419
+rs10258429,intron_variant,-,-,-,-,0.764
+rs121434569,missense_variant,790,T790M,deleterious_low_confidence(0),probably_damaging(1),25.2
+rs121434568,missense_variant,858,L858R,deleterious_low_confidence(0),probably_damaging(1),32
+rs2293347,synonymous_variant,994,D994D,-,-,9.124
+rs712830,upstream_gene_variant,-,-,-,-,7.944
+rs11506105,intron_variant,-,-,-,-,0.009

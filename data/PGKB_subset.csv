@@ -1,0 +1,387 @@
+,CHROM,POS,variant,REF,ALT,QUAL,FILTER,INFO,FORMAT,208077830010_R02C01,gene,type,level of evidence,chemicals,phenotypes
+0,1,11238733,rs2024627,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,9382:1:-0,017272616",MTOR,Efficacy,3,everolimus,"Breast Neoplasms,Kidney Neoplasms,Neuroendocrine Tumors"
+1,1,28818612,rs204047,G,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7946:0,51287377:0,031456217",OPRD1,Dosage,3,methadone,
+2,1,28818612,rs204047,G,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7946:0,51287377:0,031456217",OPRD1,Metabolism/PK,3,methadone,
+3,1,28824671,rs797397,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8870:0,48727977:-0,13162984",OPRD1,Metabolism/PK,3,methadone,
+4,1,28839325,rs2298897,C,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9485:0,5051199:-0,051542666",OPRD1,Toxicity,3,heroin,Heroin Dependence
+5,1,46933071,rs3890011,G,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,4196:0,49490216:0,07141326",CYP4A11,Efficacy,3,spironolactone,Hypertension
+6,1,63659768,rs4643,A,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8693:0:0,064204305",PGM1,Metabolism/PK,3,acetaldehyde,
+7,1,65954222,rs6421482,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9321:0:0,0046779034",PDE4B,Toxicity,3,ethanol,Alcohol abuse
+8,1,73382927,rs61767420,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9344:0:-0,076571584",,Toxicity,3,ethanol,Alcohol abuse
+9,1,101409030,rs74497159,T,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9337:0,0024192692:-0,041513395",,Toxicity,3,taxanes,Peripheral Nervous System Diseases
+10,1,109737630,rs36120609,ATCC,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9423:0:0,15300025",GSTM3,Toxicity,3,"cisplatin,cyclophosphamide",Drug Toxicity
+11,1,109737630,rs36120609,ATCC,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9423:0:0,15300025",GSTM3,Metabolism/PK,3,olanzapine,
+12,1,156843858,rs10908521,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9150:0,5045059:-0,00828787","INSRR,NTRK1",Toxicity,3,Glucarpidase,nephrotoxicity
+13,1,163070705,rs2842030,G,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9079:0,47981942:0,2502977",RGS4,Efficacy,3,"olanzapine,perphenazine",Schizophrenia
+14,1,163070705,rs2842030,G,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9079:0,47981942:0,2502977",RGS4,Efficacy,3,risperidone,Schizophrenia
+15,1,169731361,rs3917412,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8606:0,5654596:0,015188559",SELE,Efficacy,3,"capecitabine,fluorouracil,leucovorin,oxaliplatin",Colonic Neoplasms
+16,1,173909724,rs5877,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9135:0,012979443:-0,01361377",SERPINC1,Toxicity,3,"carboplatin,gemcitabine","Non-Small Cell Lung Carcinoma,Thrombocytopenia"
+17,1,174668799,rs61826952,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4695:0:0,019838246",RABGAP1L,Toxicity,3,ethanol,Alcohol abuse
+18,1,203129147,rs2228079,T,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7977:0,49917364:0,079697825",ADORA1,Toxicity,3,aspirin,Asthma
+19,1,206480926,rs2151222,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8449:0,5123363:-0,009953962",IKBKE,Toxicity,3,gefitinib,"Diarrhea,Non-Small Cell Lung Carcinoma"
+20,1,206484465,rs12142086,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8939:0,48560464:0,034050677",IKBKE,Toxicity,3,gefitinib,"Exanthema,Non-Small Cell Lung Carcinoma"
+21,1,215236763,rs6686529,G,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8442:0,9859912:-0,026161822",KCNK2,Efficacy,3,sevoflurane,sedation
+22,1,224634780,rs10799590,G,A,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,7686:1:-0,1028309",CNIH3,Toxicity,3,opioids,Opioid-Related Disorders
+23,10,44372809,rs1801157,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7111:0:0,04313862",CXCL12,Efficacy,3,"alemtuzumab,chlorambucil,cyclophosphamide,fludarabine,prednisone,rituximab,vincristine","Leukemia, Lymphocytic, Chronic, B-Cell"
+24,10,68399112,rs7917432,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,4271:0,53936946:0,035449367",ABCC2,Toxicity,3,tenofovir,HIV infectious disease
+25,10,71148194,rs7900002,T,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8872:0:0,077607386",,Toxicity,3,ethanol,Alcohol abuse
+26,10,77596639,rs2253201,G,A,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8788:1:-0,14773493",KCNMA1,Toxicity,3,"Ace Inhibitors, Plain",Angioedema
+27,10,94136183,rs932764,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8412:0,48974615:0,102908",PLCE1,Efficacy,3,hydrochlorothiazide,Hypertension
+28,10,94780573,rs183701923,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4481:0:-0,068773754",CYP2C19,Metabolism/PK,3,mephenytoin,
+29,10,94945466,rs7089580,A,T,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0734:0,37977165:0,06557999",CYP2C9,Dosage,3,warfarin,
+30,10,98417292,rs1061115,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7130:0,4791845:0,26906973",PYROXD2,Efficacy,3,methylphenidate,Attention Deficit Disorder with Hyperactivity
+31,10,111078003,rs201376588,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4191:0,054972887:0,10570314",ADRA2A,Efficacy,3,dexmedetomidine,"Pain, Postoperative"
+32,10,111078794,rs1800035,C,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,2623:0,14274375:-0,07355623",ADRA2A,Efficacy,3,dexmedetomidine,"Pain, Postoperative"
+33,10,118856049,rs4752219,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7742:0,007960856:-0,04161606",EIF3A,Toxicity,3,Platinum compounds,Non-Small Cell Lung Carcinoma
+34,10,119335888,rs3740563,A,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8616:1:-0,039711386",GRK5,Efficacy,3,Beta Blocking Agents,Coronary Artery Disease
+35,10,119340641,rs4752292,T,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7551:0,5589754:-0,061538585",GRK5,Efficacy,3,Beta Blocking Agents,Coronary Artery Disease
+36,10,119348388,rs11198893,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8960:0:0,01505462",GRK5,Efficacy,3,Beta Blocking Agents,Coronary Artery Disease
+37,10,119371801,rs10787959,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8974:0,50978625:0,25660047",GRK5,Efficacy,3,Beta Blocking Agents,Coronary Artery Disease
+38,10,122461028,rs11200638,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,3002:0:-0,23720548",HTRA1,Efficacy,4,"bevacizumab,ranibizumab",Macular Degeneration
+39,11,2165105,rs2070762,A,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,4251:0,9713799:-0,023714708",TH,Efficacy,3,methylphenidate,Attention Deficit Disorder with Hyperactivity
+40,11,2165105,rs2070762,A,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,4251:0,9713799:-0,023714708",TH,Toxicity,3,opioids,Opioid-Related Disorders
+41,11,2172367,rs10770140,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9326:0,48610508:-0,03628985",TH,Toxicity,3,opioids,Opioid-Related Disorders
+42,11,14972978,rs3781719,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8315:0,50184685:0,010753796",CALCA,Efficacy,3,botulinum toxin type a,Migraine disorder
+43,11,27643996,rs11030096,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8836:0,0041535445:0,066236705",BDNF-AS,Toxicity,3,opioids,Opioid-Related Disorders
+44,11,27676827,rs16917234,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9442:0:0,15181199","BDNF,BDNF-AS",Other,3,heroin,Heroin Dependence
+45,11,64237220,rs12366035,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8309:0:0,011503852",VEGFB,Toxicity,3,sorafenib,Drug Toxicity
+46,11,65655382,rs11227247,A,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8439:0,4768007:0,00020000196",RELA,Toxicity,3,gefitinib,"Non-Small Cell Lung Carcinoma,Toxic liver disease"
+47,11,75204976,rs3781727,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8863:0:0,23046423",SLCO2B1,Metabolism/PK,3,voriconazole,
+48,11,83983729,rs2449598,T,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8733:0,98113227:0,036969077",DLG2,Efficacy,3,anastrozole,Breast Neoplasms
+49,11,113412966,rs1076560,C,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,6051:0,020745873:-0,16800211",DRD2,Efficacy,3,olanzapine,Schizophrenia
+50,11,113412966,rs1076560,C,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,6051:0,020745873:-0,16800211",DRD2,Efficacy,3,rasagiline,Parkinson Disease
+51,11,113412966,rs1076560,C,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,6051:0,020745873:-0,16800211",DRD2,Other,3,opioids,"Heroin Dependence,Opioid-Related Disorders"
+52,11,113412966,rs1076560,C,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,6051:0,020745873:-0,16800211",DRD2,Toxicity,3,cocaine,Cocaine dependence
+53,11,113573031,rs6589386,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9461:0,49199396:0,049954377",,Toxicity,3,ethanol,Alcohol abuse
+54,11,131320708,rs139945292,C,T,.,PASS,.,GT:GS:BAF:LRR,"./.:0,1145:0:0,15192267",,Efficacy,3,Beta Blocking Agents,
+55,11,131320708,rs139945292,C,T,.,PASS,.,GT:GS:BAF:LRR,"./.:0,1145:0:0,15192267",,Toxicity,3,Beta Blocking Agents,
+56,12,2551994,rs1034936,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8511:0:0,03849958",CACNA1C,Toxicity,3,ethanol,"Alcohol abuse,Bipolar Disorder"
+57,12,5916105,rs61908404,C,T,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,1732:1:-0,001941442",ANO2,Efficacy,3,duloxetine,Major Depressive Disorder
+58,12,6839862,rs5441,A,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,9177:0,98337734:-0,049317833","GNB3,P3H3",Efficacy,3,sertraline,Major Depressive Disorder
+59,12,9658801,rs10771997,T,C,.,PASS,.,GT:GS:BAF:LRR,"./.:0,1375:1:0,012050745",,Efficacy,3,duloxetine,Major Depressive Disorder
+60,12,17291799,rs2965667,A,T,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8563:1:0,15125583",,Other,3,"Antiinflammatory agents, non-steroids,aspirin",Colorectal Neoplasms
+61,12,20020830,rs12579720,C,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,9242:1:-0,002815608",PDE3A,Efficacy,3,hydrochlorothiazide,Hypertension
+62,12,21215863,rs2900478,T,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9263:0,016956814:0,15817697",SLCO1B1,Efficacy,3,hmg coa reductase inhibitors,
+63,12,21250045,rs113681054,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,3799:0,5076589:0,016645087",SLCO1B1,Metabolism/PK,3,ticagrelor,Acute coronary syndrome
+64,12,21271069,rs7967354,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9237:0,4918733:0,3941866",SLCO1A2,Dosage,3,rocuronium,
+65,12,21334835,rs3834939,C,CT,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9414:0,49302733:0,06832383",SLCO1A2,Metabolism/PK,3,rocuronium,
+66,12,21355244,rs11045995,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7950:0:0,012304504","IAPP,SLCO1A2",Dosage,3,rocuronium,
+67,12,21891410,rs704212,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8921:0:0,14422989",ABCC9,Metabolism/PK,3,montelukast,Asthma
+68,12,25654374,rs6487504,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8545:0,5080129:-0,001678667",,Efficacy,3,Antihypertensives,Hypertension
+69,12,28008122,rs11049274,G,A,.,PASS,.,GT:GS:BAF:LRR,"./.:0,1373:0:0,0690375",,Toxicity,3,meperidine,adverse events
+70,12,53361428,rs10747673,A,G,.,PASS,.,GT:GS:BAF:LRR,"./.:0,1105:1:0,083832644",,Efficacy,3,metformin,Diabetes Mellitus
+71,12,53429100,rs784892,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,6773:0:0,046212446",AMHR2,"Efficacy,Metabolism/PK",3,metformin,Diabetes Mellitus
+72,12,57095926,rs1059513,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,6623:0,0038985198:-0,09853038",STAT6,Efficacy,3,esomeprazole,eosinophilic esophagitis
+73,12,71961399,rs1386493,A,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,7655:1:0,10147321",TPH2,Dosage,3,methadone,Heroin Dependence
+74,12,79430071,rs2251214,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7688:0,00032631925:0,06267746",SYT1,Toxicity,3,cocaine,Cocaine dependence
+75,12,99455122,rs2133896,G,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7453:0,014647126:-0,09639577",ANKS1B,Toxicity,3,ethanol,Alcohol abuse
+76,12,99455122,rs2133896,G,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7453:0,014647126:-0,09639577",ANKS1B,Toxicity,3,heroin,Heroin Dependence
+77,12,99455122,rs2133896,G,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7453:0,014647126:-0,09639577",ANKS1B,Toxicity,3,methamphetamine,Methamphetamine dependence
+78,12,102894883,rs76394784,T,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,5001:0,006075727:-0,030631837",PAH,Metabolism/PK,3,carbocisteine,
+79,12,102894883,rs76394784,T,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,5001:0,006075727:-0,030631837",PAH,Metabolism/PK,3,l-phenylalanine,
+80,12,108898654,rs55944529,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8501:0,014834404:0,122647606",DAO,Metabolism/PK,3,methadone,Heroin Dependence
+81,12,108898654,rs55944529,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8501:0,014834404:0,122647606",DAO,Dosage,3,methadone,Heroin Dependence
+82,12,108898654,rs55944529,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8501:0,014834404:0,122647606",DAO,Efficacy,3,methadone,
+83,12,121155216,rs1718125,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7671:0,004917741:0,050601307",P2RX7,Dosage,3,fentanyl,"Pain, Postoperative"
+84,13,48094016,rs73189762,G,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4639:0:0,04922655","MED4,NUDT15",Dosage,3,mercaptopurine,
+85,13,51991990,rs9535826,T,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,9189:1:0,10415993",ATP7B,Efficacy,3,Platinum compounds,Lung Neoplasms
+86,13,103045378,rs2301159,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9018:0,016835928:-0,04161004",SLC10A2,Toxicity,3,"docetaxel,thalidomide",Prostatic Neoplasms
+87,14,35402011,rs8904,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8500:0,39319748:0,049334414",NFKBIA,Toxicity,3,gefitinib,"Exanthema,Non-Small Cell Lung Carcinoma"
+88,14,58299185,rs61974485,T,C,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0140:0,29067996:0,86862403",ARID4A,Toxicity,3,ethanol,Alcohol abuse
+89,14,100834675,rs10132552,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8751:0:-0,09530989",MEG3,Toxicity,3,"Platinum compounds,radiotherapy","Anemia,Dermatitis,Leukopenia,Mucositis,Myelosuppression,Neutropenia,Thrombocytopenia"
+90,15,61174799,rs4774388,C,T,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,7871:0,9982581:0,12242691",RORA,Efficacy,3,interferon beta-1a,Multiple Sclerosis
+91,15,78540694,rs57064725,C,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8759:0:0,0005383772",PSMA4,Metabolism/PK,3,cotinine,Tobacco Use Disorder
+92,15,78559273,rs2036527,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9177:0,0076999664:0,15826406",CHRNA5,Efficacy,3,varenicline,Tobacco Use Disorder
+93,15,78559273,rs2036527,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9177:0,0076999664:0,15826406",CHRNA5,Efficacy,3,bupropion,Tobacco Use Disorder
+94,15,78559273,rs2036527,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9177:0,0076999664:0,15826406",CHRNA5,Efficacy,3,nicotine,Tobacco Use Disorder
+95,15,78565644,rs55781567,C,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8750:0:0,043274984",CHRNA5,Toxicity,3,nicotine,Tobacco Use Disorder
+96,15,78620601,rs7170068,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,3198:0,0991056:-0,05292512",CHRNA3,Metabolism/PK,3,cotinine,Tobacco Use Disorder
+97,15,84909044,rs2305364,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,5038:0:-0,09240257",SLC28A1,Toxicity,4,anthracyclines and related substances,Neoplasms
+98,16,286916,rs1048786,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,4756:0,51509804:0,149751",PDIA2,Efficacy,3,methylphenidate,Attention Deficit Disorder with Hyperactivity
+99,16,685794,rs11640115,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9142:0,47397777:0,06534842","JMJD8,WDR24",Efficacy,3,"aspirin,clopidogrel","Acute coronary syndrome,Major Adverse Cardiac Events (MACE)"
+100,16,4382028,rs3810818,A,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,7595:0,99113095:0,062390905",CORO7,Efficacy,3,methylphenidate,Attention Deficit Disorder with Hyperactivity
+101,16,11680345,rs3784921,G,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8857:0:0,008221892",TXNDC11,Efficacy,3,hydrochlorothiazide,Hypertension
+102,16,16141824,rs3743527,C,T,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8775:1:-0,10731165",ABCC1,Toxicity,3,irinotecan,Colorectal Neoplasms
+103,16,24681727,rs72768626,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8471:0:-0,03278676",TNRC6A,Toxicity,3,ethanol,Alcohol abuse
+104,16,28607005,rs1042008,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,2585:0:0,15107834",SULT1A1,Metabolism/PK,3,acetaminophen,
+105,16,28607005,rs1042008,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,2585:0:0,15107834",SULT1A1,Metabolism/PK,3,tapentadol,
+106,16,28607005,rs1042008,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,2585:0:0,15107834",SULT1A1,Metabolism/PK,3,desmethylnaproxen,
+107,16,31091000,rs7294,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,4660:0,4774418:0,24225536",VKORC1,Dosage,1B,warfarin,
+108,16,31091000,rs7294,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,4660:0,4774418:0,24225536",VKORC1,Other,3,acenocoumarol,
+109,16,31091000,rs7294,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,4660:0,4774418:0,24225536",VKORC1,Dosage,3,"acenocoumarol,phenprocoumon",
+110,16,31102913,rs61162043,A,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,1997:0,9771469:-0,04181256",VKORC1,Dosage,3,warfarin,
+111,16,49912759,rs6500265,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,5859:0,56102514:0,09570929",,Toxicity,3,"acetaminophen,ibuprofen,loxoprofen,salicylamide",
+112,16,52885654,rs7184292,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8872:0,4786901:0,084014535",,Efficacy,3,atenolol,Hypertension
+113,16,52885654,rs7184292,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8872:0,4786901:0,084014535",,Dosage,3,atenolol,Hypertension
+114,16,53842839,rs12595985,C,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,6606:0:-0,053690787",FTO,Toxicity,3,atenolol,Hypertension
+115,16,55652906,rs28386840,T,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8178:0,5636419:0,027736455",SLC6A2,Efficacy,3,methylphenidate,Attention Deficit Disorder with Hyperactivity
+116,16,55761039,rs7187684,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8250:1:0,25960967",CES1P1,Toxicity,3,capecitabine,Drug Toxicity
+117,16,55821238,rs3217164,TG,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,6836:0,55962455:0,11170099",CES1,Toxicity,3,capecitabine,Drug Toxicity
+118,16,55821399,rs200707504,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,1726:1:0,030381897",CES1,Metabolism/PK,3,oseltamivir,
+119,16,64410685,rs1437153,G,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8949:0:-0,14982833",,Efficacy,3,anastrozole,Breast Neoplasms
+120,16,77402386,rs1346563,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9302:0,0025186539:-0,05455277",ADAMTS18,Toxicity,3,sorafenib,Hypertension
+121,16,78170090,rs9927200,A,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8981:0:-0,11517551",WWOX,Toxicity,3,sorafenib,Diarrhea
+122,16,82981129,rs17682789,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9619:0,5171431:-0,06679949",CDH13,Toxicity,3,sorafenib,Diarrhea
+123,16,84814217,rs7205113,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8375:0,007912159:-0,01342029",,Efficacy,3,buprenorphine,Opioid-Related Disorders
+124,17,7559238,rs11552708,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,6499:0,5291916:0,07734106",SENP3,Efficacy,3,methylphenidate,Attention Deficit Disorder with Hyperactivity
+125,17,12073183,rs2159140,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,9206:1:0,04735693",MAP2K4,Toxicity,3,ethanol,"Alcohol abuse,Attention Deficit Disorder with Hyperactivity"
+126,17,30224840,rs4251417,C,T,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,7996:0,99019057:-0,0918351",SLC6A4,Toxicity,3,ethanol,Alcohol abuse
+127,17,31693749,rs315498,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,1806:0,16289872:0,0065301703",,Toxicity,3,sorafenib,Drug Toxicity
+128,17,44260984,rs45545233,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9469:0:-0,028818008",SLC4A1,Efficacy,3,"atenolol,metoprolol",Hypertension
+129,17,47733553,rs2240017,C,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,2017:0,01706797:0,52933866",TBX21,Efficacy,3,corticosteroids,Asthma
+130,17,61406405,rs8068318,C,T,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8431:1:-0,17595433",TBX2,Efficacy,3,atenolol,Hypertension
+131,17,63943825,rs121908547,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4808:0,016744018:0,16780293",SCN4A,Efficacy,3,mexiletine,Myotonic Disorders
+132,17,63943825,rs121908547,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4808:0,016744018:0,16780293",SCN4A,Efficacy,3,flecainide,Myotonic Disorders
+133,17,63944694,rs121908560,G,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4683:0:-0,038017657",SCN4A,Efficacy,3,mexiletine,Myotonic Disorders
+134,17,69478057,rs11651488,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8304:0,0010662094:-0,020605596",MAP2K6,Toxicity,3,sorafenib,Diarrhea
+135,17,69498353,rs12948059,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8288:0,5577653:-0,04179583",MAP2K6,Toxicity,3,sorafenib,Drug Toxicity
+136,18,6739625,rs9958628,A,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8118:0:0,029117005",ARHGAP28,Toxicity,3,pegaspargase,
+137,18,12291681,rs62097526,T,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8933:0,49362442:-0,040170565",,Toxicity,3,antipsychotics,Weight gain
+138,18,43844132,rs62103056,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8851:0:-0,057240054",,Efficacy,3,tafenoquine,Malaria
+139,18,58792367,rs2874116,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8461:0,51265824:-0,01565908",,Efficacy,3,cyclosporine,
+140,18,63318540,rs1800477,C,T,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0209:0,041388333:-0,20391701",BCL2,Efficacy,3,"interferons,ribavirin",Hepatitis C virus infection
+141,19,2232222,rs740406,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9331:0,50772756:0,024818236","DOT1L,PLEKHJ1",Efficacy,3,candesartan,Hypertension
+142,19,3631038,rs4807493,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8843:0,47207803:0,03663277",PIP5K1C,Toxicity,3,ethanol,Alcohol abuse
+143,19,3634021,rs10405681,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8640:0,00687629:-0,026976494",PIP5K1C,Toxicity,3,ethanol,Alcohol abuse
+144,19,3656654,rs10432303,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9061:0,47611952:0,010548252",PIP5K1C,Toxicity,3,ethanol,Alcohol abuse
+145,19,3664096,rs8109485,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7992:0,01620968:-0,115903005",PIP5K1C,Toxicity,3,ethanol,Alcohol abuse
+146,19,3685118,rs10419980,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8594:0,0005337596:-0,021788286",PIP5K1C,Toxicity,3,ethanol,Alcohol abuse
+147,19,3698844,rs4432372,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8896:0:0,041629743",PIP5K1C,Toxicity,3,ethanol,Alcohol abuse
+148,19,7522131,rs114077267,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,6984:0,014202893:0,0068196505",MCOLN1,Toxicity,3,opioids,Overdose
+149,19,7524175,rs115208233,C,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7962:0:0,034015067",MCOLN1,Toxicity,3,opioids,Overdose
+150,19,7529361,rs116181528,C,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4602:0:-0,04348479",MCOLN1,Toxicity,3,opioids,Overdose
+151,19,38900291,rs2053071,C,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8149:0,4559916:0,02926734","NFKBIB,SIRT2",Toxicity,3,gefitinib,Toxic liver disease
+152,19,39244466,rs8103142,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,3379:1:0,031931344",IFNL3,Efficacy,3,"peginterferon alfa-2a,peginterferon alfa-2b,ribavirin",Hepatitis C virus infection
+153,19,40843881,rs145014075,G,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,6077:0:-0,0039681904",CYP2A6,Metabolism/PK,3,nicotine,
+154,19,40845458,rs61605570,T,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,2723:0,014762346:-0,019204255",CYP2A6,Metabolism/PK,3,nicotine,
+155,19,40846881,rs111869995,C,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4576:0:0,025842141",CYP2A6,Metabolism/PK,3,nicotine,
+156,19,40847202,rs56113850,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,1717:0,5305445:-0,0136570865",CYP2A6,Metabolism/PK,3,nicotine,Tobacco Use Disorder
+157,19,40849970,rs374515279,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4956:0:0,02071753",CYP2A6,Metabolism/PK,3,nicotine,
+158,19,40849980,rs200554095,T,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,2725:0:0,022563891",CYP2A6,Metabolism/PK,3,nicotine,
+159,19,41352971,rs1800471,C,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,4626:0,54486394:0,14804439",TGFB1,Efficacy,3,rituximab,Rheumatoid arthritis
+160,19,43576907,rs3213239,G,GGGCC,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8488:0:0,0051511326",APLF,Efficacy,3,Platinum compounds,Non-Small Cell Lung Carcinoma
+161,19,45364001,rs1799793,C,T,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0260:0,28771365:-0,096138746",ERCC2,Toxicity,3,Platinum compounds,Non-Small Cell Lung Carcinoma
+162,19,45364001,rs1799793,C,T,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0260:0,28771365:-0,096138746",ERCC2,Toxicity,3,"bleomycin,cisplatin,etoposide","Anemia,Testicular Neoplasms"
+163,19,45364001,rs1799793,C,T,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0260:0,28771365:-0,096138746",ERCC2,Toxicity,3,Platinum compounds,"Non-Small Cell Lung Carcinoma,Pneumonitis"
+164,19,45364001,rs1799793,C,T,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0260:0,28771365:-0,096138746",ERCC2,Toxicity,3,Platinum compounds,"adverse events,Non-Small Cell Lung Carcinoma"
+165,19,45364001,rs1799793,C,T,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0260:0,28771365:-0,096138746",ERCC2,"Efficacy,Toxicity",4,Platinum compounds,Neoplasms
+166,19,45413183,rs3212980,T,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,5649:0,53989536:-0,073062964",ERCC1,Efficacy,3,cisplatin,Ovarian Neoplasms
+167,19,45423658,rs2298881,C,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4253:0,06426728:0,17660156",ERCC1,Efficacy,3,"fluorouracil,Platinum compounds,radiotherapy",Stomach Neoplasms
+168,19,45526896,rs10995,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9084:0,4243772:0,11165849",VASP,Efficacy,3,hydrochlorothiazide,Hypertension
+169,19,50377484,rs2695121,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,7649:0,9993575:0,0017636355",NR1H2,Toxicity,3,gefitinib,"Diarrhea,Non-Small Cell Lung Carcinoma"
+170,2,26691496,rs1275988,C,T,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,9393:1:-0,10586344",KCNK3,Efficacy,3,candesartan,Hypertension
+171,2,26691496,rs1275988,C,T,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,9393:1:-0,10586344",KCNK3,Other,3,sevoflurane,
+172,2,27508073,rs1260326,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8687:1:0,08692178",GCKR,Toxicity,3,ethanol,Alcohol abuse
+173,2,31580636,rs523349,G,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,9463:1:-0,050132424",SRD5A2,Efficacy,3,abiraterone,Prostatic Neoplasms
+174,2,38075034,rs1056827,C,A,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0418:0,6528167:-1,0299989",CYP1B1,Efficacy,3,risperidone,Schizophrenia
+175,2,44914041,rs494904,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8139:0:0,057799242",,Toxicity,3,ethanol,Alcohol abuse
+176,2,45869545,rs11125039,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7439:0:0,053534675",PRKCE,Toxicity,3,sorafenib,Hypertension
+177,2,46320970,rs9973653,G,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9197:0,47008556:0,03376409",EPAS1,Toxicity,3,sorafenib,Drug Toxicity
+178,2,46327507,rs1868089,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8468:0,46673912:0,054519366",EPAS1,Toxicity,3,sorafenib,Drug Toxicity
+179,2,46340088,rs4035887,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9414:0,532649:-0,06605124",EPAS1,Toxicity,3,sorafenib,Drug Toxicity
+180,2,57815106,rs1402398,G,A,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,9121:0,998708:-0,08967385",,Toxicity,3,ethanol,Alcohol abuse
+181,2,61476721,rs4430924,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9060:0,4599472:-0,048937574",XPO1,Toxicity,3,Drugs For Treatment Of Tuberculosis,"Drug Toxicity,Tuberculosis"
+182,2,75135918,rs735668,A,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7921:0,52454776:0,08420063",TACR1,Toxicity,3,opioids,Opioid-Related Disorders
+183,2,85410714,rs3770102,G,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8881:0,009734809:0,18208726",CAPG,Toxicity,3,vincristine,"Drug Toxicity,Neurotoxicity Syndromes"
+184,2,103517974,rs9679319,T,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,1963:1:-0,027307276",,Toxicity,3,ethanol,Alcohol abuse
+185,2,112624477,rs17587029,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8830:0,006683508:-0,03453812",,Toxicity,3,"docetaxel,FEC100,gemcitabine,trastuzumab,zoledronate",Amenorrhea
+186,2,112771663,rs11677416,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,5085:0:0,25870216",IL1A,Efficacy,3,olanzapine,Schizophrenia
+187,2,136115514,rs2228014,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7199:0,020333707:-0,043502245",CXCR4,Efficacy,3,bevacizumab,Colorectal Neoplasms
+188,2,137506661,rs13382553,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9596:0,49972168:-0,02837313",THSD7B,Toxicity,3,ethanol,Alcohol abuse
+189,2,164106976,rs1446468,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,7569:1:0,110774964",,Efficacy,3,metoprolol,Hypertension
+190,2,170815568,rs3762556,C,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7643:0:-0,10023624",GAD1,Dosage,3,methadone,Heroin Dependence
+191,2,170815885,rs3762555,C,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8854:0,50135964:0,03952537",GAD1,Dosage,3,methadone,Heroin Dependence
+192,2,170816965,rs3749034,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9416:0,49332184:0,07368478",GAD1,Dosage,3,methadone,Heroin Dependence
+193,2,170822115,rs769404,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8909:0,48143026:0,08374712",GAD1,Dosage,3,methadone,Heroin Dependence
+194,2,184668853,rs7597593,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8304:0,5321511:0,10895015",ZNF804A,Toxicity,3,opioids,Opioid-Related Disorders
+195,2,207608460,rs7569963,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7916:0,02502799:0,06176638","CREB1,METTL21A","Efficacy,Toxicity",3,"antidepressants,citalopram",Depression
+196,2,226299937,rs2673136,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8842:0,51014304:0,012326843",,Toxicity,3,ethanol,Alcohol abuse
+197,2,233671246,rs3806598,A,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9218:0:0,0120698465",UGT1A9,Metabolism/PK,3,SN-38,
+198,2,233729207,rs6706232,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,2298:0,57553995:0,2353591","UGT1A10,UGT1A3,UGT1A4,UGT1A5,UGT1A6,UGT1A7,UGT1A8,UGT1A9",Efficacy,3,risperidone,Schizophrenia
+199,2,233749470,rs7604115,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7694:0,36622155:-0,0030377437",UGT1A3,Metabolism/PK,3,montelukast,Asthma
+200,2,233757337,rs1976391,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,5666:0:-0,05323157",,Metabolism/PK,3,oxazepam,
+201,2,233757337,rs1976391,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,5666:0:-0,05323157",UGT1A1,Toxicity,3,risperidone,Hyperprolactinemia
+202,2,233767812,rs12471326,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9150:0,0072167898:0,019296164",UGT1A9,Metabolism/PK,3,cotinine glucuronide,
+203,2,233772770,rs10929303,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7834:0,51709104:0,04008734",UGT1A,Other,3,acetaminophen,
+204,2,233772770,rs10929303,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7834:0,51709104:0,04008734",UGT1A,Toxicity,3,acetaminophen,"Liver Failure, Acute"
+205,2,233772770,rs10929303,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7834:0,51709104:0,04008734",UGT1A1,Toxicity,3,"atazanavir,ritonavir","HIV infectious disease,Nephrolithiasis"
+206,2,237927498,rs12615320,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8561:0,008442105:0,015041344",,Efficacy,3,erenumab,"Migraine with Aura,Migraine without Aura"
+207,2,237927498,rs12615320,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8561:0,008442105:0,015041344",,Efficacy,3,fremanezumab,"Migraine with Aura,Migraine without Aura"
+208,2,237927498,rs12615320,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8561:0,008442105:0,015041344",,Efficacy,3,galcanezumab,"Migraine with Aura,Migraine without Aura"
+209,2,240592062,rs3792269,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,6970:0:-0,2833531",CAPN10,Efficacy,3,metformin,Diabetes Mellitus
+210,2,240603286,rs5030952,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4848:0:-0,20734681",CAPN10,Toxicity,3,tacrolimus,Kidney Transplantation
+211,20,1979580,rs910080,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8579:0,025697079:0,09792908",PDYN,Toxicity,3,opioids,Opioid-Related Disorders
+212,20,56864307,rs6025211,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9343:0,49585104:0,028322259",,Efficacy,3,"cisplatin,fluorouracil,mitoxantrone",Liver cancer
+213,20,63344026,rs6090378,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9075:0:-0,024486277",CHRNA4,Toxicity,3,nicotine,Tobacco Use Disorder
+214,20,63347872,rs3787138,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9405:0,5295764:0,08867519",CHRNA4,Toxicity,3,nicotine,Tobacco Use Disorder
+215,20,63349752,rs1044397,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8408:0,032370448:0,042852834",CHRNA4,Other,3,nicotine,Tobacco Use Disorder
+216,21,39371919,rs3761372,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8668:0,5006942:0,179355",,Efficacy,3,methylphenidate,Attention Deficit Disorder with Hyperactivity
+217,21,40043117,rs9981861,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,9377:1:0,16306657",DSCAM,Efficacy,3,"carboplatin,paclitaxel","Neoplasms,Non-Small Cell Lung Carcinoma"
+218,21,43687681,rs9306160,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,2663:0,4847281:0,26359028",RRP1B,Efficacy,3,atenolol,Hypertension
+219,21,45514947,rs1051296,A,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4287:0:-0,091683984",SLC19A1,Metabolism/PK,3,methotrexate,Acute lymphoblastic leukemia
+220,21,45537880,rs1051266,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8560:1:0,012366744",SLC19A1,Efficacy,2A,methotrexate,Rheumatoid arthritis
+221,21,45537880,rs1051266,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8560:1:0,012366744",SLC19A1,Efficacy,3,irinotecan,Colorectal Neoplasms
+222,21,45537880,rs1051266,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8560:1:0,012366744",SLC19A1,Efficacy,3,Platinum compounds,Non-Small Cell Lung Carcinoma
+223,21,45537880,rs1051266,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8560:1:0,012366744",SLC19A1,Toxicity,3,imatinib,Gastrointestinal Stromal Tumors
+224,21,45537880,rs1051266,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8560:1:0,012366744",SLC19A1,Toxicity,3,methotrexate,"Drug Toxicity,Rheumatoid arthritis"
+225,21,45537880,rs1051266,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8560:1:0,012366744",SLC19A1,Efficacy,4,methotrexate,"Acute lymphoblastic leukemia,Neoplasms"
+226,21,45537880,rs1051266,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8560:1:0,012366744",SLC19A1,Toxicity,4,methotrexate,Neoplasms
+227,21,45537880,rs1051266,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8560:1:0,012366744",SLC19A1,Metabolism/PK,4,methotrexate,"Acute lymphoblastic leukemia,Burkitt Lymphoma,Leukemia,Lymphoma, T-Cell,Neoplasms,Osteosarcoma"
+228,22,19957654,rs740603,A,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8520:0,99893767:-0,11003017",COMT,Toxicity,3,methadone,Neonatal Abstinence Syndrome
+229,22,19957654,rs740603,A,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8520:0,99893767:-0,11003017",COMT,Toxicity,3,buprenorphine,Neonatal Abstinence Syndrome
+230,22,24441333,rs5751876,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8370:0,47209087:0,07387155",ADORA2A,Toxicity,3,caffeine,Anxiety Disorders
+231,22,24444708,rs17004921,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8819:0:0,08085623",ADORA2A-AS1,Efficacy,3,methotrexate,Rheumatoid arthritis
+232,22,41993944,rs739296,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9488:0:-0,031052986","SEPTIN3,WBP2NL",Toxicity,3,codeine,adverse events
+233,22,41993944,rs739296,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9488:0:-0,031052986","SEPTIN3,WBP2NL",Toxicity,3,oxycodone,adverse events
+234,22,41993944,rs739296,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9488:0:-0,031052986","SEPTIN3,WBP2NL",Toxicity,3,hydrocodone,adverse events
+235,22,41993944,rs739296,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9488:0:-0,031052986","SEPTIN3,WBP2NL",Toxicity,3,tramadol,adverse events
+236,22,42009653,rs9620007,C,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9364:0,000477314:-0,024207821",WBP2NL,Toxicity,3,codeine,adverse events
+237,22,42129083,rs5030655,CA,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8458:0,012227585:-0,11873169",CYP2D6,Efficacy,3,metoprolol,
+238,22,42129083,rs5030655,CA,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8458:0,012227585:-0,11873169",CYP2D6,Toxicity,3,antipsychotics,
+239,22,42132969,rs28360521,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9234:0:0,019280212",CYP2D6,Toxicity,3,aspirin,
+240,22,43001030,rs2413739,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9264:0,4782194:-0,100015484",PACSIN2,Toxicity,3,"mercaptopurine,methotrexate",Acute lymphoblastic leukemia
+241,22,43001030,rs2413739,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9264:0,4782194:-0,100015484",PACSIN2,Toxicity,3,mercaptopurine,Acute lymphoblastic leukemia
+242,22,43001030,rs2413739,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9264:0,4782194:-0,100015484",PACSIN2,Efficacy,3,azathioprine,Irritable Bowel Syndrome
+243,3,21753431,rs9873889,C,T,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8944:0,9958153:0,018005375",ZNF385D,Efficacy,3,duloxetine,Major Depressive Disorder
+244,3,21756084,rs9310658,C,T,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,7713:1:-0,07511185",ZNF385D,Efficacy,3,duloxetine,Major Depressive Disorder
+245,3,23132842,rs4858478,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9379:0,51056826:0,060011774",,Efficacy,3,duloxetine,Major Depressive Disorder
+246,3,31461468,rs1353327,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8842:0:0,02128077",,Toxicity,3,Glucarpidase,nephrotoxicity
+247,3,39492990,rs616147,A,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,7992:0,9885479:0,019064168",MOBP,Efficacy,3,creatine,Amyotrophic Lateral Sclerosis
+248,3,44945082,rs3749187,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8615:0:0,0101307575",ZDHHC3,Efficacy,3,"aspirin,clopidogrel","Acute coronary syndrome,Major Adverse Cardiac Events (MACE)"
+249,3,85464643,rs62250713,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9133:0,5249923:0,022271458",CADM2,Toxicity,3,ethanol,Alcohol abuse
+250,3,88809891,rs13093031,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8352:0:-0,008534985",,Efficacy,3,fentanyl,"Pain, Postoperative"
+251,3,111506078,rs9828223,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9604:0,008382976:0,06736871",,Efficacy,3,adalimumab,Crohn Disease
+252,3,114162776,rs324029,A,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,7969:1:-0,122093484",DRD3,Toxicity,3,opioids,Opioid-Related Disorders
+253,3,119799570,rs2472677,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,5170:0,34043813:-0,27887368",NR1I2,Other,3,rifampin,
+254,3,119799570,rs2472677,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,5170:0,34043813:-0,27887368",NR1I2,Metabolism/PK,3,atazanavir,"Acquired Immunodeficiency Syndrome,HIV infectious disease,Nephrolithiasis"
+255,3,133822039,rs17376019,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8340:0:-0,06155034",SRPRB,Metabolism/PK,3,ethanol,
+256,3,145575553,rs76103438,T,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,5085:0,0068315244:0,054394495",,Toxicity,3,simvastatin,adverse events
+257,4,3240373,rs362306,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7631:0,44964314:-0,014404099","HTT,MSANTD1",Efficacy,3,risperidone,Schizophrenia
+258,4,3241491,rs362267,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9502:0,5240256:-0,071075425","HTT,MSANTD1",Efficacy,3,risperidone,Schizophrenia
+259,4,15736109,rs28404156,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8485:0,006210327:0,021231115",BST1,Efficacy,3,"Beta blocking agents, selective",Hypertension
+260,4,21354260,rs6838116,A,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,1634:1:-0,056363765",KCNIP4,Toxicity,3,"Ace Inhibitors, Plain",
+261,4,39403252,rs13129401,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,2564:0,009256335:-0,022186952",,Toxicity,3,ethanol,Alcohol abuse
+262,4,53421530,rs113100019,T,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,5166:0,007215578:0,036775447",FIP1L1,Toxicity,3,meperidine,adverse events
+263,4,55080735,rs4864950,T,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7115:0,50219595:0,014620721",KDR,Toxicity,3,sorafenib,Drug Toxicity
+264,4,55080735,rs4864950,T,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7115:0,50219595:0,014620721",KDR,Toxicity,3,regorafenib,Drug Toxicity
+265,4,61380610,rs1456862,A,T,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,9305:1:0,08293499",ADGRL3,Toxicity,3,nicotine,Tobacco Use Disorder
+266,4,61996667,rs2271339,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8100:8,182381E-05:-0,11075813",ADGRL3,Toxicity,3,nicotine,Tobacco Use Disorder
+267,4,69107231,rs4292394,C,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,2377:1:-0,011741178",UGT2B7,"Efficacy,Toxicity",3,methadone,Opioid-Related Disorders
+268,4,70993635,rs2306744,C,T,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,2498:0,89999187:-0,15379037",DCK,Efficacy,3,"cytarabine,idarubicin","Leukemia, Myeloid, Acute"
+269,4,102276925,rs13135092,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,2815:0:-0,056892585",SLC39A8,Toxicity,3,ethanol,Alcohol abuse
+270,4,103585232,rs4530637,A,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,7582:0,9975128:-0,006200208",,Toxicity,3,opioids,Opioid-Related Disorders
+271,4,129255324,rs56229625,G,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,3601:0,44886184:-0,05822601",,Efficacy,3,duloxetine,Major Depressive Disorder
+272,4,153688371,rs1816702,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8712:1:0,17397566",TLR2,Efficacy,3,Tumor necrosis factor alpha (TNF-alpha) inhibitors,Crohn Disease
+273,4,180916588,rs6848893,C,T,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8610:0,979117:0,03371856",,Efficacy,3,oxycodone,
+274,5,1445501,rs2975226,A,T,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,2380:1:-0,11007759",SLC6A3,Efficacy,3,clozapine,Schizophrenia
+275,5,42194757,rs16872401,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7762:0,020091413:0,027191933",,Efficacy,3,atenolol,Hypertension
+276,5,80184547,rs185462714,A,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,5148:0,010195545:0,011019219",SERINC5,Toxicity,3,meperidine,adverse events
+277,5,90730817,rs2366929,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9248:0,4960657:-0,050131265",ADGRV1,Toxicity,3,opioids,Opioid-Related Disorders
+278,5,132369766,rs2631367,C,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,4625:0,51005036:0,124108054",SLC22A5,Efficacy,3,imatinib,Gastrointestinal Stromal Tumors
+279,5,166918083,rs13169373,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9351:0,48672336:0,076684",,Efficacy,3,buprenorphine,Opioid-Related Disorders
+280,5,168491921,rs244898,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,9195:1:0,2760152",RARS1,Efficacy,3,cisplatin,Urinary Bladder Neoplasms
+281,5,172771552,rs881152,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4263:0,10439414:-0,6189761",DUSP1,Efficacy,3,salbutamol,Asthma
+282,5,173402299,rs7720513,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9070:0,012663853:0,03279371",,Toxicity,3,antipsychotics,Weight gain
+283,5,174642665,rs11749255,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7750:0,53388053:0,023187",,Efficacy,3,Antihypertensives,Hypertension
+284,6,28091439,rs9393888,G,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8630:0,50111395:0,018863369",ZNF165,Toxicity,3,opioids,"Nausea,Vomiting"
+285,6,29830865,rs17179108,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,6751:0,38810354:0,03371184",HLA-G,Efficacy,3,"capecitabine,fluorouracil",Colorectal Neoplasms
+286,6,30643573,rs9262132,C,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8209:0:0,18218307",ATAT1,Toxicity,3,"carboplatin,gemcitabine","Non-Small Cell Lung Carcinoma,Thrombocytopenia"
+287,6,30951614,rs3094086,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,6438:0,0054107904:-0,34038597",MUCL3,Toxicity,3,"carboplatin,gemcitabine","Non-Small Cell Lung Carcinoma,Thrombocytopenia"
+288,6,31359845,rs115200108,C,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,6785:0,005245447:-0,054921735",,Toxicity,3,penicillin g,adverse events
+289,6,31359845,rs115200108,C,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,6785:0,005245447:-0,054921735",,Toxicity,3,penicillin v,adverse events
+290,6,31411200,rs1051792,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,4631:0,41654366:-0,01689462",MICA,Efficacy,3,Tumor necrosis factor alpha (TNF-alpha) inhibitors,Rheumatoid arthritis
+291,6,31574705,rs1799724,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,6546:0:-0,20530432",TNF,Efficacy,4,Tumor necrosis factor alpha (TNF-alpha) inhibitors,"Crohn Disease,Psoriasis,Rheumatoid arthritis,Spondylitis, Ankylosing"
+292,6,31760120,rs3115672,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,6114:0:-0,0017216273",MSH5,Toxicity,3,"carboplatin,gemcitabine","Non-Small Cell Lung Carcinoma,Thrombocytopenia"
+293,6,32223953,rs367398,G,A,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0748:0,24752176:0,28241584",NOTCH4,Toxicity,3,allopurinol,Severe Cutaneous Adverse Reactions
+294,6,32581698,rs701829,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,5176:0,99764633:-0,067090616",HLA-DRB1,Toxicity,3,dapsone,Drug Hypersensitivity
+295,6,33027304,rs13210472,A,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8818:0:0,03606375",,Toxicity,3,hmg coa reductase inhibitors,Neoplasms
+296,6,35394748,rs7769719,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,2557:0,005763948:0,06692498",PPARD,Efficacy,3,"docetaxel,thalidomide",Prostatic Neoplasms
+297,6,43768678,rs144854329,TGGTCCCACTCTTCCCACA,T,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,9463:1:0,013772975",VEGFA,Efficacy,3,docetaxel,Breast Neoplasms
+298,6,43770093,rs1570360,A,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,3965:1:-0,24332936",VEGFA,Efficacy,3,docetaxel,Breast Neoplasms
+299,6,43770093,rs1570360,A,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,3965:1:-0,24332936",VEGFA,Efficacy,3,sorafenib,Renal Cell Carcinoma
+300,6,43770093,rs1570360,A,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,3965:1:-0,24332936",VEGFA,Efficacy,3,"cyclophosphamide,docetaxel",Prostatic Neoplasms
+301,6,44238042,rs834576,C,A,.,PASS,.,GT:GS:BAF:LRR,"./.:0,1406:0:0,18085946",HSP90AB1,Toxicity,3,bevacizumab,Hypertension
+302,6,64483927,rs1337512,T,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9321:0,50438046:0,0066987984",EYS,Toxicity,3,hmg coa reductase inhibitors,Rhabdomyolysis
+303,6,88150763,rs2023239,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,1631:0:0,056602657",CNR1,Toxicity,3,opioids,Opioid-Related Disorders
+304,6,88151570,rs6928499,G,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9009:0:0,03553444",CNR1,Toxicity,3,opioids,Opioid-Related Disorders
+305,6,93420339,rs78132896,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,3720:0,0115733:0,04637983",EPHA7,Toxicity,3,warfarin,Hemorrhage
+306,6,112346991,rs9384825,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7805:0,4907062:-0,007640144",RFPL4B,Metabolism/PK,3,"o-desmethyltramadol,tramadol",
+307,6,138114070,rs78428806,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7516:0,0051630735:0,006307072",PERP,Toxicity,3,"cyclophosphamide,epirubicin,fluorouracil","Breast Neoplasms,Neutropenia"
+308,6,149325172,rs577001,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9283:0:-0,028002823",TAB2,Toxicity,3,gefitinib,Diarrhea
+309,6,153704004,rs73568641,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9522:0:0,044707615",,Dosage,3,methadone,Opioid-Related Disorders
+310,6,153704004,rs73568641,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9522:0:0,044707615",,Efficacy,4,methadone,Opioid-Related Disorders
+311,6,153992036,rs9384169,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9197:0,58647734:-0,0015100237",,Toxicity,3,heroin,Heroin Dependence
+312,6,154002774,rs9478495,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9088:0:-0,10602613",,Toxicity,3,heroin,Heroin Dependence
+313,6,154010889,rs1323040,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4450:0:-0,013076624",OPRM1,Dosage,3,sufentanil,
+314,6,154059015,rs7748401,T,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7580:0,0104244705:0,05602641",OPRM1,Metabolism/PK,3,"cotinine,nicotine",
+315,6,154062523,rs3778150,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9148:0,60026085:0,24653012",OPRM1,Toxicity,3,heroin,Heroin Dependence
+316,6,154062523,rs3778150,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9148:0,60026085:0,24653012",OPRM1,Efficacy,3,ethanol,
+317,6,154062523,rs3778150,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9148:0,60026085:0,24653012",OPRM1,Dosage,3,ethanol,
+318,7,96804,rs6973474,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8043:0:-0,022757377",,Efficacy,3,buprenorphine,Opioid-Related Disorders
+319,7,1534767,rs4720833,A,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,7052:1:0,15276743",MAFK,Toxicity,3,isoniazid,"Drug-induced liver injury,Toxic liver disease"
+320,7,8148016,rs62435418,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8176:0,0022176504:-0,02068297",ICA1,Metabolism/PK,3,"o-desmethyltramadol,tramadol",
+321,7,14600073,rs1525085,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8815:0:0,10360781",DGKB,Toxicity,3,antipsychotics,Weight gain
+322,7,30924207,rs1049305,G,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7293:0,44771326:0,03185783",AQP1,Toxicity,3,cisplatin,"Alopecia,Mesothelioma"
+323,7,30924207,rs1049305,G,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7293:0,44771326:0,03185783",AQP1,Toxicity,3,cisplatin,"Anemia,Mesothelioma"
+324,7,30924207,rs1049305,G,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7293:0,44771326:0,03185783",AQP1,Toxicity,3,cisplatin,"Leukopenia,Mesothelioma"
+325,7,30924207,rs1049305,G,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7293:0,44771326:0,03185783",AQP1,Toxicity,3,cisplatin,"Mesothelioma,Thrombocytopenia"
+326,7,33120302,rs2392165,A,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,1697:0,9735893:-0,019558538",,Efficacy,3,budesonide,Asthma
+327,7,45921476,rs2854744,G,T,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,2735:0,9311844:0,51988286",IGFBP3,Efficacy,3,fluorouracil,Stomach Neoplasms
+328,7,55019062,rs712829,G,T,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0423:0,16898215:0,010222633",EGFR,Efficacy,3,topoisomerase I inhibitors,Neoplasms
+329,7,55019062,rs712829,G,T,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0423:0,16898215:0,010222633",EGFR,Efficacy,3,geldanamycin,Neoplasms
+330,7,55019062,rs712829,G,T,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0423:0,16898215:0,010222633",EGFR,Efficacy,3,erlotinib,Neoplasms
+331,7,55019062,rs712829,G,T,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0423:0,16898215:0,010222633",EGFR,Toxicity,3,erlotinib,Neoplasms
+332,7,55019062,rs712829,G,T,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0423:0,16898215:0,010222633",EGFR,Efficacy,3,Alkylating Agents,Neoplasms
+333,7,55019062,rs712829,G,T,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0423:0,16898215:0,010222633",EGFR,Efficacy,3,"cetuximab,irinotecan,panitumumab",Colorectal Neoplasms
+334,7,55019062,rs712829,G,T,.,PASS,.,GT:GS:BAF:LRR,"./.:0,0423:0,16898215:0,010222633",EGFR,Efficacy,3,gefitinib,Neoplasms
+335,7,55019087,rs712830,A,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,1877:0,9856589:0,008571897",EGFR,Toxicity,3,"cetuximab,irinotecan,leucovorin,tegafur",Colorectal Neoplasms
+336,7,55106649,rs2330951,C,A,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,9581:0,98945314:-0,013860582",EGFR,Toxicity,3,sorafenib,Hypertension
+337,7,99823462,rs62471956,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7347:0,031523347:0,38327053",CYP3A43,Metabolism/PK,3,ticagrelor,Acute coronary syndrome
+338,7,133436098,rs718656,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,9343:0,47802317:-0,002275318",EXOC4,Toxicity,3,opioids,Opioid-Related Disorders
+339,7,150992991,rs2070744,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,4741:0,57139105:-0,018810159",NOS3,Efficacy,3,Antihypertensives And Diuretics In Combination,
+340,7,150992991,rs2070744,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,4741:0,57139105:-0,018810159",NOS3,Efficacy,3,"cyclophosphamide,doxorubicin,fluorouracil,methotrexate",Breast Neoplasms
+341,7,150992991,rs2070744,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,4741:0,57139105:-0,018810159",NOS3,Efficacy,3,"Antihypertensives,Antihypertensives And Diuretics In Combination,diuretics",Hypertension
+342,7,150992991,rs2070744,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,4741:0,57139105:-0,018810159",NOS3,Efficacy,3,sildenafil,Erectile Dysfunction
+343,7,150992991,rs2070744,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,4741:0,57139105:-0,018810159",NOS3,Efficacy,3,enalapril,Hypertension
+344,7,150992991,rs2070744,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,4741:0,57139105:-0,018810159",NOS3,Efficacy,3,sorafenib,Hepatocellular Carcinoma
+345,7,153791989,rs2533200,C,G,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,5751:0,3832957:0,16859607",DPP6,Toxicity,3,ethanol,Alcohol abuse
+346,8,2069296,rs17064642,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,5081:0:-0,07173655",MYOM2,Efficacy,3,"aspirin,clopidogrel","Acute coronary syndrome,Major Adverse Cardiac Events (MACE)"
+347,8,2952059,rs11993031,T,A,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8648:0,46519578:0,12928082",CSMD1,Efficacy,3,hydrochlorothiazide,Essential hypertension
+348,8,3269991,rs6990851,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,3644:0,0068263607:0,072205074",CSMD1,Efficacy,3,anastrozole,Breast Neoplasms
+349,8,11390991,rs2736308,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8939:0,510144:-0,08946102",,Toxicity,3,Bisphosphonates,Osteonecrosis of the jaw
+350,8,18400344,rs1801280,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4596:0,0423755:-0,026783317",NAT2,Toxicity,3,"cisplatin,cyclophosphamide",Ovarian Neoplasms
+351,8,18400344,rs1801280,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,4596:0,0423755:-0,026783317",NAT2,Toxicity,3,"isoniazid,phenytoin","Drug interaction with drug,Drug Toxicity"
+352,8,23512505,rs11782370,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9300:0:0,026435638",,Efficacy,3,buprenorphine,Opioid-Related Disorders
+353,8,28310063,rs4732636,C,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9158:0:-0,08414906",PNOC,Toxicity,3,buprenorphine,Neonatal Abstinence Syndrome
+354,8,28310063,rs4732636,C,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9158:0:-0,08414906",PNOC,Toxicity,3,methadone,Neonatal Abstinence Syndrome
+355,8,28333789,rs351776,A,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9091:0,0046183877:-0,19872098",PNOC,Toxicity,3,buprenorphine,Neonatal Abstinence Syndrome
+356,8,28333789,rs351776,A,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9091:0,0046183877:-0,19872098",PNOC,Toxicity,3,methadone,Neonatal Abstinence Syndrome
+357,8,38470784,rs10958704,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7459:0:0,020162718",,Toxicity,3,sorafenib,Drug Toxicity
+358,8,42298528,rs9694958,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7707:0,0044584773:-0,0126015255",IKBKB,Toxicity,3,gefitinib,"Exanthema,Non-Small Cell Lung Carcinoma"
+359,8,42300384,rs2272733,T,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,7900:1:-0,018774353",IKBKB,Efficacy,3,gefitinib,"Exanthema,Non-Small Cell Lung Carcinoma"
+360,8,53228388,rs3802279,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7525:0,00048023462:0,09067005",OPRK1,Dosage,3,methadone,Heroin Dependence
+361,8,53228603,rs3802281,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8987:0,5507652:0,21329813",OPRK1,Dosage,3,methadone,Heroin Dependence
+362,8,53229597,rs702764,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8505:0,584481:0,30389735",OPRK1,Efficacy,3,butorphanol,
+363,8,53239818,rs997917,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8589:0,5263668:-0,122676075",OPRK1,Toxicity,3,cocaine,Cocaine dependence
+364,8,53239818,rs997917,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8589:0,5263668:-0,122676075",OPRK1,Toxicity,3,opioids,Opioid-Related Disorders
+365,8,53247532,rs10111937,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,7796:0,51607716:0,05718347",OPRK1,Toxicity,3,cocaine,Cocaine dependence
+366,8,56512315,rs2582405,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,2565:0,026625812:0,063807644",,Toxicity,3,ethanol,Alcohol abuse
+367,8,63038892,rs11545076,A,C,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,3609:0,9005414:-0,111804694",GGH,Efficacy,3,methotrexate,Acute lymphoblastic leukemia
+368,8,90925381,rs74569896,A,G,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,9056:0:0,034869306",NECAB1,Efficacy,3,"aspirin,clopidogrel","Acute coronary syndrome,Major Adverse Cardiac Events (MACE)"
+369,8,135413336,rs72732317,G,T,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8795:0,055419564:0,063362986",,Metabolism/PK,3,"o-desmethyltramadol,tramadol",
+370,9,449798,rs10491684,G,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,7725:0,02966535:0,06907652",DOCK8,Toxicity,3,"carboplatin,gemcitabine","Non-Small Cell Lung Carcinoma,Thrombocytopenia"
+371,9,9059545,rs324498,G,A,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8496:0,99952775:-0,006546387",PTPRD,Efficacy,3,Antihypertensives,Hypertension
+372,9,14163908,rs28379954,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8814:0:-0,20108567",NFIB,Metabolism/PK,3,clozapine,Schizophrenia
+373,9,72953467,rs6151031,G,GCTGGTGAGGAGAGAACC,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8641:1:0,014195718",ALDH1A1,Toxicity,3,"carboplatin,cyclophosphamide,thiotepa",
+374,9,72953467,rs6151031,G,GCTGGTGAGGAGAGAACC,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,8641:1:0,014195718",ALDH1A1,Efficacy,3,"cyclophosphamide,doxorubicin",Breast Neoplasms
+375,9,117194009,rs7858836,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8117:0,0072757797:0,0044624046",ASTN2,Dosage,3,fentanyl,"Pain, Postoperative"
+376,9,117196574,rs958804,T,C,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8071:0,5048068:0,080562204",ASTN2,Dosage,3,fentanyl,"Pain, Postoperative"
+377,9,133533736,rs756770,C,A,.,PASS,.,GT:GS:BAF:LRR,"0/0:0,8998:0:-0,0020623414",ADAMTSL2,Efficacy,3,buprenorphine,Opioid-Related Disorders
+378,9,133635081,rs1611114,C,T,.,PASS,.,GT:GS:BAF:LRR,"0/1:0,8866:0,49364352:-0,012442183",DBH,Toxicity,3,heroin,"Heroin Dependence,Memory impairment"
+379,9,134429310,rs1536475,A,G,.,PASS,.,GT:GS:BAF:LRR,"1/1:0,6654:1:0,091164984",RXRA,Toxicity,3,docetaxel,Nasopharyngeal Neoplasms
+380,MT,827,rs28358569,A,G,.,PASS,.,GT:GS:BAF:LRR,"0:0,5761:0,026024176:-0,07753709",MT-RNR1,Toxicity,3,streptomycin,Ototoxicity
+381,MT,827,rs28358569,A,G,.,PASS,.,GT:GS:BAF:LRR,"0:0,5761:0,026024176:-0,07753709",MT-RNR1,Toxicity,3,gentamicin,Ototoxicity
+382,X,15599938,rs2106809,A,G,.,PASS,.,GT:GS:BAF:LRR,"0:0,7206:0:-0,21996242",ACE2,Efficacy,3,captopril,Hypertension
+383,X,101398033,rs104894827,G,A,.,PASS,.,GT:GS:BAF:LRR,"0:0,4639:0:-0,16458033",GLA,Efficacy,3,migalastat,Fabry Disease
+384,X,101401713,rs28935195,C,T,.,PASS,.,GT:GS:BAF:LRR,"0:0,4956:0:-0,20697325",GLA,Efficacy,3,migalastat,Fabry Disease
+385,X,129736814,rs3788853,C,A,.,PASS,.,GT:GS:BAF:LRR,"0:0,9042:0:-0,35653824",XPNPEP2,Toxicity,3,"Ace Inhibitors, Plain",Angioedema
